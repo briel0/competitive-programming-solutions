@@ -11,7 +11,6 @@ signed main(){
     getline(cin, s);
     getline(cin, t);
 
-
     map<char, int> a, b;
 
     for(auto &x : s) a[x]++;
